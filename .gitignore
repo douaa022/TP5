@@ -1,0 +1,4 @@
+bin/
+*.class
+metrics.txt
+metrics_after.txt
